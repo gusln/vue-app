@@ -1,8 +1,8 @@
-# huilianyi-weichat
+# Vue Demo
 
-> 汇联易微信项目
+> Vue Demo
 
-git clone  http://hpm.hand-china.com/diffusion/HUILIANYIWECHAT/huilianyi-wechat.git -b develop
+git clone  https://github.com/gusln/vue-app.git -b develop
 
 ## 环境配置
 
